@@ -1,4 +1,4 @@
-# -FOV-Changer
+# 真・三國無双7 empires FOV mod, Dynasty Warriors 8 Empires FOV mod 
 視野角変更ツール FOV Changer
 JP
 大変古いゲームでFOVが変更できず今では視野が狭すぎる問題を解消します
